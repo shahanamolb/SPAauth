@@ -1,0 +1,41 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "John",
+      "doj": "10-10-2020",
+      "salary": 35000,
+      "email": "john@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "name": "aa",
+      "email": "aa",
+      "pass": "aa",
+      "reppass": "aa",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "pass": "",
+      "reppass": "",
+      "id": 2
+    },
+    {
+      "name": "Shahana mol B",
+      "email": "shahana@gmail",
+      "pass": "password",
+      "reppass": "password",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "pass": "",
+      "reppass": "",
+      "id": 4
+    }
+  ]
+}
